@@ -1,5 +1,10 @@
+# Data manipulation
 pandas
-scikit-learn
 ipykernel
-scikit-learn
+
+# Visualisation
 ydata_profiling
+
+# Data Science
+scikit-learn
+xgboost
