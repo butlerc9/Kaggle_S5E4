@@ -9,3 +9,6 @@ ydata_profiling
 scikit-learn
 xgboost
 mlflow # experiment tracking
+
+# kaggle
+kaggle
