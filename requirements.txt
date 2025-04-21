@@ -8,3 +8,4 @@ ydata_profiling
 # Data Science
 scikit-learn
 xgboost
+mlflow # experiment tracking
