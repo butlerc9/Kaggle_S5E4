@@ -1,6 +1,10 @@
+# notebooks
+ipykernel
+jupyter
+ipywidgets
+
 # Data manipulation
 pandas
-ipykernel
 
 # Visualisation
 ydata_profiling
