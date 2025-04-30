@@ -11,7 +11,7 @@ ydata_profiling
 
 # Data Science
 scikit-learn
-xgboost
+lightgbm
 mlflow # experiment tracking
 
 # kaggle
